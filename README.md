@@ -1,4 +1,4 @@
-# jquery-rails
+# jquery-rails _
 
 jQuery! For Rails! So great.
 
